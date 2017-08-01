@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E9DAC1AC1F30389A00F4D8B1"
-               BuildableName = "SLLayerAndAnimation.app"
-               BlueprintName = "SLLayerAndAnimation"
+               BlueprintIdentifier = "E9DAC1CA1F3038B000F4D8B1"
+               BuildableName = "SLLayerContentsRect.app"
+               BlueprintName = "SLLayerContentsRect"
                ReferencedContainer = "container:SLLayerAndAnimation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9DAC1AC1F30389A00F4D8B1"
-            BuildableName = "SLLayerAndAnimation.app"
-            BlueprintName = "SLLayerAndAnimation"
+            BlueprintIdentifier = "E9DAC1CA1F3038B000F4D8B1"
+            BuildableName = "SLLayerContentsRect.app"
+            BlueprintName = "SLLayerContentsRect"
             ReferencedContainer = "container:SLLayerAndAnimation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9DAC1AC1F30389A00F4D8B1"
-            BuildableName = "SLLayerAndAnimation.app"
-            BlueprintName = "SLLayerAndAnimation"
+            BlueprintIdentifier = "E9DAC1CA1F3038B000F4D8B1"
+            BuildableName = "SLLayerContentsRect.app"
+            BlueprintName = "SLLayerContentsRect"
             ReferencedContainer = "container:SLLayerAndAnimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9DAC1AC1F30389A00F4D8B1"
-            BuildableName = "SLLayerAndAnimation.app"
-            BlueprintName = "SLLayerAndAnimation"
+            BlueprintIdentifier = "E9DAC1CA1F3038B000F4D8B1"
+            BuildableName = "SLLayerContentsRect.app"
+            BlueprintName = "SLLayerContentsRect"
             ReferencedContainer = "container:SLLayerAndAnimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
